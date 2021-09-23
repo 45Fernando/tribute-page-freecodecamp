@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto" , Helvetica;
+  text-align: center;
+}
+
+main {
+  background-color: #edc787;
+  display: block;
+}
+
+section {  
+  margin: 15px;
+}
+
+#img-div {
+  background-color: #f5e7d0;
+  padding: 10px;
+  margin: 20px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+ul {
+  text-align: center;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  line-height: 2.0;
+}
